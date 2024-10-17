@@ -60,9 +60,9 @@ I'm a full stack developer who formally began my adventures in April 2021, mostl
       <!-- img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/  -->
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
       <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-      <!-- img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/ -->
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
       <!-- img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/ -->
-      <!-- img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=fff&style=for-the-badge" alt="Inertia"/>
+      < img src="https://img.shields.io/badge/Inertia-9553E9?logo=inertia&logoColor=fff&style=for-the-badge" alt="Inertia"/>
       <!-- img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/ -->
     </td>
     <td align="center">
