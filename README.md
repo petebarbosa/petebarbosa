@@ -80,3 +80,8 @@ I'm a full stack developer who formally began my adventures in April 2021, mostl
     </td>
   </tr>
 </table>
+
+</br>
+
+<img width="800" src="https://github.com/petebarbosa/petebarbosa/blob/main/assets/night_marketo.gif">
+
