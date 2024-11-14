@@ -24,7 +24,6 @@ I'm a full stack developer who formally began my adventures in April 2021, mostl
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=petebarbosa&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=petebarbosa&theme=radical&include_all_commits=true&count_private=true" />
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petebarbosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
     <td align="center">
