@@ -20,24 +20,6 @@ I'm a full stack developer who formally began my adventures in April 2021, mostl
 
 <br><br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=petebarbosa&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img width="400" src="https://github.com/petebarbosa/petebarbosa/blob/main/assets/cyber_punk_train.gif" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petebarbosa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-  </tr>
-</table>
-
 # <img width="50" src="https://github.com/petebarbosa/petebarbosa/blob/main/assets/squirrel.gif" /> Squirrels
 
 <br>
