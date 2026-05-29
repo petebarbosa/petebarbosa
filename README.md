@@ -8,8 +8,8 @@
 
   ### Hello! Please, call me Pete!
 
-  I'm a fullstack developer who formally began my adventures in April 2021 after completing [Le Wagon's](https://github.com/lewagon) bootcamp — mostly Ruby on Rails. Four years later I'm also deep into Node.js/Express,
-  React/TypeScript, Terraform, and building AI automation systems with n8n and Claude on AWS Bedrock. Got a Bachelor's in Software Engineering along the way. Before all of this I was writing Python scripts to auto-click games, so
+  I'm a fullstack developer who formally began my adventures in April 2021 after completing [Le Wagon's](https://github.com/lewagon) bootcamp with Ruby on Rails. Five years later I'm also deep into Node.js/Express,
+  React/TypeScript, Terraform, and building AI automation systems with n8n and Claude on AWS Bedrock. On going Bachelor's in Software Engineering along the way. Before all of this I was writing Python scripts to auto-click games, so
   in hindsight it was always going to end up here.
 
   ദദി( • ᴗ - ) ✧
